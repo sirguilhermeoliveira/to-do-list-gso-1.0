@@ -1,0 +1,10 @@
+
+.button {
+    font-size: 1em;
+    background-color: var(--bg-button);
+    border: none;
+    border-right: var(--border-button);
+    border-bottom: var(--border-button);
+    outline: none;
+    text-align: center;
+}
