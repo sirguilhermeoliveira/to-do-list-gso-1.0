@@ -1,4 +1,5 @@
-Gif do Projeto:
+# To do List
+## Desenvolvida em React
 
 ![Alt Text](https://media.giphy.com/media/M4rBCKGicdcJ58GofZ/giphy.gif)
 
